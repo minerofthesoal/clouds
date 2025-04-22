@@ -1,0 +1,9 @@
+{
+  "name": "volumetric-clouds",
+  "description": "Volumetric cloud simulation with day/night cycle and weather in MakeCode Arcade.",
+  "dependencies": {},
+  "files": ["cloud.ts"],
+  "targetVersions": {
+    "arcade": "*"
+  }
+}
